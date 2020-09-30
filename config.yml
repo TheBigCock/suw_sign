@@ -7,14 +7,14 @@ users:
   #单个用户配置
   - user:
       #username 学号或者工号
-      username: '112018321001458'
-      #password 密码
-      password: '092414'
+      用户名：'11201832100 **’
+      #password密码（）身份证后六位
+      password: '014'
       #address 地址，定位信息
       address: 中国重庆市北碚区融汇中路
       #email 接受通知消息的邮箱
-      email: 1357743154@qq.com
-      #school 学校全称
+      电子邮件：xxx@qq.com
+      #school学校全称
       school: 西南大学
       #lon 经度
       lon: '106.4304918'
